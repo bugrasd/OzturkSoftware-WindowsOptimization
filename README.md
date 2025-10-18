@@ -1,6 +1,8 @@
 Öztürk Software
-Bu uygulama diğer windows optimizasyon programına göre daha gelişmiş, daha optmize ve daha iyi çalışmaktadır.
-Bu uygulama benim tarafımdan Python yazılmıştır.
+Bu Uygulama;
+Windows kayıt defterine doğrudan erişerek sistem performansını optimize etmek üzere tasarlanmış bir Python uygulamasıdır. 
+Gelişmiş tweak'ler ile ağ gecikmesini ve arka plan yükünü minimuma indirerek, donanımınızdan maksimum FPS almanızı sağlayan bir uygulamadır.
+
 
 İletişim;
 İnstagram: bugrasd
